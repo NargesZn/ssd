@@ -9,6 +9,7 @@
 }legend{box-sizing:border-box;color:
 inherit;display:table;max-width:100%;padding:0;white-space:normal;
 
+
 }progress{vertical-align:baseline;}textarea{overflow:auto;}:
 where([type="checkbox"], [type="radio"]){box-
 sizing:border-
