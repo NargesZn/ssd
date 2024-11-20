@@ -9,6 +9,7 @@
 }legend{box-sizing:border-box;color:
 inherit;display:table;max-width:100%;padding:0;white-space:normal;
 
+
 where([type="checkbox"], [type="radio"]){box-
 sizing:border-
 box;padding:0;}input[type="number"]::-
