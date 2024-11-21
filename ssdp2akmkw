@@ -24,6 +24,7 @@ webkit-inner-spin-button,input[type="number"]:
           h2,
           h3,
           h4,
+
           h5,
           h6,
           hr,
