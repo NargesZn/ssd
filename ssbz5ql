@@ -10,7 +10,6 @@
             top: 15px;
             right: 15px;
           }
-
           #nprogress .spinner-icon {
             width: 18px;
             height: 18px;
