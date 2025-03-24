@@ -24,9 +24,7 @@
                     animation: nprogress-spinner 400ms linear infinite;
           }
 
-        
-
-          .nprogress-custom-parent #nprogress .spinner,
+      .nprogress-custom-parent #nprogress .spinner,
           .nprogress-custom-parent #nprogress .bar {
             position: absolute;
           }
