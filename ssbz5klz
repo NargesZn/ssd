@@ -5,11 +5,7 @@
           [type="button"]::-moz-focus-inner,
           [type="reset"]::-moz-focus-inner,
           
-        ){border-style:none;padding:0;}fieldset{padding:0.35em 0.75em 0.625em;
-            z-index: 1031;
-            top: 15px;
-            right: 15px;
-          }
+     
           #nprogress .spinner-icon {
             width: 18px;
             height: 18px;
