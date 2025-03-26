@@ -4,8 +4,7 @@
           button::-moz-focus-inner,
           [type="button"]::-moz-focus-inner,
           [type="reset"]::-moz-focus-inner,
-          
-     
+         
           #nprogress .spinner-icon {
             width: 18px;
             height: 18px;
