@@ -10,9 +10,7 @@
             border-left-color: var(--_1x8rin29);
             border-radius: 50%;
 
-            -webkit-animation: nprogress-spinner 400ms linear infinite;
-                    animation: nprogress-spinner 400ms linear infinite;
-          }
+          
 
       .nprogress-custom-parent #nprogress .spinner,
           .nprogress-custom-parent #nprogress .bar {
