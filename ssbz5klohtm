@@ -14,6 +14,11 @@
           [type="button"]::-moz-focus-inner,
           [type="reset"]::-moz-focus-inner,
                 border: solid 2px transparent;
+               border: solid 2px transparent;
+   button::-moz-focus-inner,
+          [type="button"]::-moz-focus-inner,
+          [type="reset"]::-moz-focus-inner,
+                border: solid 2px transparent;
 <!DOCTYPE html><html class="no-scrollbar" lang="en"><head>
 <!DOCTYPE html><html class="no-scrollbar" lang="en"><head>
   <!DOCTYPE html><html class="no-scrollbar" lang="en"><head>
