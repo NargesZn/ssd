@@ -188,6 +188,9 @@ button::-moz-focus-inner,
  border-top-color: var(--_1x8rin29);
             border-left-color: var(--_1x8rin29);
             border-radius: 50%;
+ border-top-color: var(--_1x8rin29);
+            border-left-color: var(--_1x8rin29);
+            border-radius: 50%;
    border: solid 2px transparen
             border-top-color: var(--_1x8rin29);
             border-left-color: var(--_1x8rin29);
